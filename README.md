@@ -8,15 +8,21 @@ Want to learn more? [See the wiki.](/mbostock/topojson/wiki)
 
 Add the following to your gemfile:
 
+```ruby
     gem 'topojson-rails'
+```
 
 And then execute:
 
+```ruby
     $ bundle
+```
 
 Add the following directive to your JavaScript manifest file (application.js):
 
+```ruby
     //= require topojson
+```
 
 ## Contributing
 
